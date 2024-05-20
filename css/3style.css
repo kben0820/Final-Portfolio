@@ -1,0 +1,85 @@
+h1 {
+	font-size: 40px;
+	text-align: center;
+	font-family: FilmotypeMajor;
+	color: yellow;
+	padding-top: 20px;
+}
+
+body {
+  background-image: url("https://i.ibb.co/dJRm3df/red-textured-brick-wall-background-53876-63584.jpg");
+}
+
+.img1 {
+	width: 100%;
+	padding-top: 10px;
+}
+
+.folder1 {
+	font-family: FilmotypeMajor;
+	font-size: 30px;
+	color: yellow;
+}
+
+.vote {
+	font-family: FilmotypeMajor;
+	font-size: 25px;
+	padding-left: 80px;
+	color: cornflowerblue;
+}
+
+.img2 {
+	width: 70%;
+}
+
+.artwork {
+	font-size: 25px;
+	font-family: FilmotypeMajor;
+	color: cornflowerblue;
+}
+
+.img3 {
+	width: 110%;
+}
+
+.logo {
+	font-family: FilmotypeMajor;
+	color: cornflowerblue;
+	font-size: 25px;
+}
+
+.folder2 {
+	font-family: FilmotypeMajor;
+	font-size: 30px;
+	color: yellow;
+}
+
+.img4 {
+	width: 20%;
+}
+
+.poster {
+	font-family: FilmotypeMajor;
+	font-size: 25px;
+	color:cornflowerblue;
+}
+.folder3 {
+	font-family: FilmotypeMajor;
+	color: yellow;
+	font-size: 30px;
+}
+
+.img5 {
+	width: 25%;
+}
+
+.movie {
+	font-size: 25px;
+	font-family: FilmotypeMajor;
+	color: cornflowerblue;
+}
+
+.text-center {
+	font-size: 40px;
+	font-family: FilmotypeMajor;
+}
